@@ -1,0 +1,11 @@
+{
+    "name": "CommissionAgent",
+    "alias": "commissionagent",
+    "description": "Module for managing commission agents, including setting sales targets and viewing commission reports with sales.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CommissionAgent\\Providers\\CommissionAgentServiceProvider"
+    ],
+    "files": []
+}
